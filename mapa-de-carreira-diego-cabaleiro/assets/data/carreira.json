@@ -1,0 +1,121 @@
+{
+  "seo": {
+    "title": "Mapa de Carreira — Diego Cabaleiro",
+    "description": "Mapa de carreira de Diego Cabaleiro, estudante de Licenciatura em Matemática na USP e formando do programa PROProfissão no Instituto PROA.",
+    "author": "Diego Cabaleiro",
+    "canonicalUrl": "https://diegocabaleiro.github.io/mapa-de-carreira/"
+  },
+
+  "profile": {
+    "name": "Diego Cabaleiro",
+    "headline": "Estudante de Matemática (USP) e programação Web Python",
+    "summary": "Estudante de Matemática na Universidade de São Paulo e programação Web pelo Instituto PROA. Tenho experiência prática em desenvolvimento web (HTML, CSS, JavaScript), banco de dados (MySQL) e IoT aplicada a projetos reais, como o Dundum — uma coleira inteligente para cães desenvolvida em equipe durante o PROA. Concluí também o curso básico de informática no SENAI e a qualificação profissional em Assistência Administrativa no CEDESP. Busco minha primeira oportunidade como Jovem Aprendiz para crescer em um ambiente que valorize aprendizado contínuo e resolução de problemas.",
+    "photo": "assets/images/profile.png",
+    "photoAlt": "Foto de Diego",
+    "cvUrl": "assets/cv-diego-cabaleiro.pdf"
+  },
+
+ "contacts": [
+  {
+    "label": "São Paulo, SP",
+    "url": "#",
+    "icon": "fa-location-dot"
+  },
+  {
+    "label": "github.com/diegocabaleiro",
+    "url": "https://github.com/diegocabaleiro",
+    "icon": "fa-github"
+  },
+  {
+    "label": "linkedin.com/in/diego-cabaleiro",
+    "url": "https://linkedin.com/in/diego-cabaleiro",
+    "icon": "fa-linkedin"
+  }
+],
+
+  "careerSteps": [
+    {
+      "title": "Jovem Aprendiz — Suporte / Desenvolvimento",
+      "description": "Entrada no mercado tech, com foco em aprender boas práticas de código, versionamento e trabalho em equipe. O projeto Dundum (front-end) e o calculador JavaScript do GitHub já demonstram iniciativa nessa direção.",
+      "softSkills": [
+        "Curiosidade técnica",
+        "Atenção a detalhes",
+        "Comunicação com times multidisciplinares",
+        "Vontade de aprender e receber feedback"
+      ],
+      "roadmap": ["HTML & CSS", "JavaScript", "Git & GitHub", "VS Code"]
+    },
+    {
+      "title": "Desenvolvedor Front-end Júnior",
+      "description": "Assumir responsabilidade por funcionalidades completas de interface. Aprofundar React e consumo de APIs, evoluindo da base já iniciada no PROA.",
+      "softSkills": [
+        "Resolução de problemas",
+        "Organização de código",
+        "Colaboração em code review",
+        "Gestão do próprio tempo"
+      ],
+      "roadmap": ["React", "APIs REST", "TypeScript básico", "Testes unitários", "Figma"]
+    },
+    {
+      "title": "Desenvolvedor Full-stack Pleno",
+      "description": "Atuar nos dois lados da aplicação, propondo soluções de ponta a ponta e participando de decisões de arquitetura.",
+      "softSkills": [
+        "Visão sistêmica",
+        "Liderança técnica situacional",
+        "Documentação clara",
+        "Mentoria de juniores"
+      ],
+      "roadmap": ["Node.js", "Python", "Banco de dados relacional e NoSQL", "Cloud (AWS / GCP)", "CI/CD"]
+    },
+    {
+      "title": "Especialista / Tech Lead",
+      "description": "Liderar tecnicamente times de desenvolvimento, definir arquitetura de sistemas e contribuir com decisões estratégicas de produto. A base matemática da USP sustenta o raciocínio para problemas complexos de escala.",
+      "softSkills": [
+        "Liderança de times",
+        "Comunicação com stakeholders",
+        "Visão de produto e negócio",
+        "Tomada de decisão sob incerteza"
+      ],
+      "roadmap": ["Arquitetura de software", "DevOps", "System design", "Gestão ágil", "Segurança de aplicações"]
+    }
+  ],
+
+  "skillGroups": [
+    {
+      "title": "Desenvolvimento Web",
+      "skills": [
+        { "name": "HTML & CSS", "level": 85 },
+        { "name": "JavaScript", "level": 90 },
+        { "name": "React", "level": 80 }
+      ]
+    },
+    {
+      "title": "Banco de Dados",
+      "skills": [
+        { "name": "MySQL / SQL", "level": 80 },
+        { "name": "Modelagem ER", "level": 90 }
+      ]
+    },
+    {
+      "title": "Outras tecnologias",
+      "skills": [
+        { "name": "Python", "level": 78 },
+        { "name": "Git & GitHub", "level": 84 }
+      ]
+    }
+  ],
+
+  "otherSkills": [
+    "Lógica matemática",
+    "Pacote Office",
+    "Documentação técnica",
+    "IoT básico",
+    "Metodologia ágil",
+    "Pesquisa acadêmica"
+  ],
+
+  "languages": [
+    { "name": "Português", "level": "Nativo" },
+    { "name": "Inglês", "level": "Leitura técnica" }
+  ]
+}
