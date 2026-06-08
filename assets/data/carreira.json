@@ -1,14 +1,14 @@
 {
   "seo": {
     "title": "Mapa de Carreira — Diego Cabaleiro",
-    "description": "Mapa de carreira de Diego Cabaleiro, estudante de Licenciatura em Matemática na USP e formando do programa PROProfissão no Instituto PROA.",
+    "description": "Mapa de carreira de Diego Cabaleiro, estudante de Matemática e formando do programa PROProfissão no Instituto PROA.",
     "author": "Diego Cabaleiro",
     "canonicalUrl": "https://diegocabaleiro.github.io/mapa-de-carreira/"
   },
 
   "profile": {
     "name": "Diego Cabaleiro",
-    "headline": "Estudante de Matemática (USP) e programação Web Python",
+    "headline": "Estudante de Matemática e programação Web Python",
     "summary": "Estudante de Matemática na Universidade de São Paulo e programação Web pelo Instituto PROA. Tenho experiência prática em desenvolvimento web (HTML, CSS, JavaScript), banco de dados (MySQL) e IoT aplicada a projetos reais, como o Dundum — uma coleira inteligente para cães desenvolvida em equipe durante o PROA. Concluí também o curso básico de informática no SENAI e a qualificação profissional em Auxiliar Administrativo no CEDESP. Busco minha primeira oportunidade como Jovem Aprendiz para crescer em um ambiente que valorize aprendizado contínuo e resolução de problemas.",
     "photo": "assets/images/profile.png",
     "photoAlt": "Foto de Diego",
@@ -36,7 +36,7 @@
   "careerSteps": [
     {
       "title": "Jovem Aprendiz — Suporte / Desenvolvimento",
-      "description": "Entrada no mercado tech, com foco em aprender boas práticas de código, versionamento e trabalho em equipe. O projeto Dundum (front-end) e o calculador JavaScript do GitHub já demonstram iniciativa nessa direção.",
+      "description": "Entrada no mercado tech, com foco em aprender boas práticas de código, versionamento e trabalho em equipe. Busco desenvolver minhas habilidades técnicas e profissionais, contribuindo com a equipe enquanto construo uma base sólida para minha carreira na área de desenvolvimento.",
       "softSkills": [
         "Curiosidade técnica",
         "Atenção a detalhes",
@@ -47,7 +47,7 @@
     },
     {
       "title": "Desenvolvedor Front-end Júnior",
-      "description": "Assumir responsabilidade por funcionalidades completas de interface. Aprofundar React e consumo de APIs, evoluindo da base já iniciada no PROA.",
+      "description": "Assumir responsabilidade por funcionalidades completas de interface. Aprofundar React e consumo de APIs, evoluindo da base já iniciada no PROA. Aqui o foco é aprimorar constantemente meus conhecimentos em desenvolvimento web e colaborar com a equipe para entregar soluções de qualidade.",
       "softSkills": [
         "Resolução de problemas",
         "Organização de código",
@@ -58,7 +58,7 @@
     },
     {
       "title": "Desenvolvedor Full-stack Pleno",
-      "description": "Atuar nos dois lados da aplicação, propondo soluções de ponta a ponta e participando de decisões de arquitetura.",
+      "description": "Atuar nos dois lados da aplicação, propondo soluções de ponta a ponta e participando de decisões de arquitetura. Além de resolver problemas com autonomia, criar soluções eficientes e contribuir para o crescimento dos projetos e da equipe.",
       "softSkills": [
         "Visão sistêmica",
         "Liderança técnica situacional",
@@ -69,7 +69,7 @@
     },
     {
       "title": "Especialista / Tech Lead",
-      "description": "Liderar tecnicamente times de desenvolvimento, definir arquitetura de sistemas e contribuir com decisões estratégicas de produto. A base matemática da USP sustenta o raciocínio para problemas complexos de escala.",
+      "description": "Liderar tecnicamente times de desenvolvimento, definir arquitetura de sistemas e contribuir com decisões estratégicas de produto garantindo a qualidade das soluções desenvolvidas. Compartilhar conhecimento, apoiar outros desenvolvedores e contribuir para o sucesso dos produtos e do negócio.",
       "softSkills": [
         "Liderança de times",
         "Comunicação com stakeholders",
